@@ -1,4 +1,6 @@
-
+#patterns shape(V*P, N_s).
+#Check return the number of flipped values in patterns wrt central pattern. 
+# flip_prob=$\Delta S/2$
 import numpy as np
 
 seed = 42

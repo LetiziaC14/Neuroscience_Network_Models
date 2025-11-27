@@ -1,4 +1,4 @@
-
+##we are considering a single pattern!
 import numpy as np
 
 def compute_delta_s(center, samples):

@@ -1,4 +1,4 @@
-
+#CENTRAL PATTERNS GENERATION - Equal proportion of ones and zero
 import numpy as np
 
 seed = 42

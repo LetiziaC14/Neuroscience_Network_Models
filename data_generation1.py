@@ -1,4 +1,4 @@
-
+#CENTRAL STIMULUS PATTERNS GENERATION - Ones with prob of 0.5
 import numpy as np
 seed = 42
 import random
