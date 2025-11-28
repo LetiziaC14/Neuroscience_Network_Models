@@ -5,5 +5,4 @@ Two complementary sources are integrated:
 
 2) The notes file introduces the general model family (feedforward, feedforward-with-inhibition, recurrent), provides full mean-field derivations, and analyzes dimensionality across architectures (Sections I–IV) 
 
-notes2.
 Together, they provide a complete analytic and computational picture of how random networks reshape data.
