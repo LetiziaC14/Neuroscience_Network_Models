@@ -1,5 +1,4 @@
-Integrated Summary of the Research
-
+## Project Goal
 This project develops a unified mean-field theory and simulation framework to understand how random two-layer neural networks transform clustered noisy sensory patterns into higher-dimensional cortical representations, and how this affects dimensionality, cluster expansion, and linear readout performance.
 Two complementary sources are integrated:
 1) The main paper analyzes feedforward random projections, cluster statistics, and readout classification.
